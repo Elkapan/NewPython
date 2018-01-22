@@ -3,6 +3,7 @@
 
 
 def main(msg):
+    // Another comment
     // Adding a different comment
     // Print a Message
     print(msg)
